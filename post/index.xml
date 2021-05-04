@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kirill Borisov</title>
+    <link>https://kiborisov.github.io/ki_portfolio/post/</link>
+    <description>Recent content in Projects on Kirill Borisov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://kiborisov.github.io/ki_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Stock Price Web App in Python</title>
+      <link>https://kiborisov.github.io/ki_portfolio/post/project-4/</link>
+      <pubDate>Tue, 04 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://kiborisov.github.io/ki_portfolio/post/project-4/</guid>
+      <description>Link to Interactive Website
+    This web app provides an overview and stock price of S&amp;amp;P Top 500 companies.
+  The web app was built in Python using the following libraries: •	yfinance •	pandas •	cufflinks •	datetime •	streamlit
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: NBA Players Statistics Data Explorer Web App in Python</title>
+      <link>https://kiborisov.github.io/ki_portfolio/post/project-3/</link>
+      <pubDate>Mon, 08 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://kiborisov.github.io/ki_portfolio/post/project-3/</guid>
+      <description>Link to Interactive Website
+    This web app performs webscraping of NBA players statistics data from 1950 - 2019.
+  The web app was built in Python using the following libraries: •	base64 •	pandas •	streamlit
+  https://nba-stats-str.herokuapp.com/
+Data source: Basketball-reference.com.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: COVID-19 Data Visualization in Tableau Public</title>
+      <link>https://kiborisov.github.io/ki_portfolio/post/project-2/</link>
+      <pubDate>Sun, 07 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kiborisov.github.io/ki_portfolio/post/project-2/</guid>
+      <description>Covid19 is a very sensitive topic so it&amp;rsquo;s important to be able to see the facts and understand the numbers.
+That is why I am excited to share with this interactive Data Visualization which explores the numbers of cases and deaths around the world. Please note that it&amp;rsquo;s not an up to date COVID-19 source. This visualization shows the progression of the virus from January 22, 2020 - April 13, 2020.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Penguin Classification</title>
+      <link>https://kiborisov.github.io/ki_portfolio/post/project-1/</link>
+      <pubDate>Wed, 18 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kiborisov.github.io/ki_portfolio/post/project-1/</guid>
+      <description>Link to Interactive Website
+  This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
+  The web app was built in Python using the following libraries: •	streamlit •	pandas •	numpy •	scikit-learn •	pickle
+        Link to Interactive Website Link to Github Repository https://penguins-streamlit-app.</description>
+    </item>
+    
+  </channel>
+</rss>
